@@ -24,7 +24,7 @@
 
           src = ./.;
 
-          vendorHash = "sha256-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="; # Will need to update this
+          vendorHash = "sha256-tCWrVkQJQ+AdMx5ZitcRgI/bAcpJQrNRJlPhjwNuyIQ="; # Will need to update this
 
           ldflags = [
             "-s"
