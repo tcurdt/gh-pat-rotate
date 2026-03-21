@@ -51,7 +51,7 @@ homebrew:
       name: homebrew-tap
     homepage: "https://github.com/tcurdt/gh-pat-rotate"
     description: "Rotate GitHub PATs into environment secrets across multiple repositories"
-    license: "MIT"
+    license: "Apache-2.0"
     directory: Formula
     install: |
       bin.install "gh-pat-rotate"
